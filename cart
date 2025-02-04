@@ -1,0 +1,417 @@
+{
+  "items": [
+    {
+      "availability": "In Stock",
+      "brand": "Apple",
+      "category": "Electronics",
+      "colors": [
+        "Silver",
+        "Space Gray",
+        "Gold",
+        "Deep Purple"
+      ],
+      "coupon_code": "IPHONE10",
+      "delivery_estimate": "3-5 business days",
+      "description": "The latest iPhone with A17 chip, ProMotion display, and 5G support.",
+      "discount_price": 1399.99,
+      "features": [
+        "6.7-inch OLED display",
+        "Triple 12 MP cameras",
+        "Ceramic Shield"
+      ],
+      "id": 1,
+      "image": "/static/images/iphone_15_pro_max.jpg",
+      "name": "Apple iPhone 15 Pro Max",
+      "num_reviews": 12456,
+      "offer_details": "10% off for limited time",
+      "price": 1499.99,
+      "rating": 4.8,
+      "seller": {
+        "location": "California, USA",
+        "name": "Apple Store",
+        "rating": 4.9
+      },
+      "shipping": "Free Shipping",
+      "sizes": [
+        "128GB",
+        "256GB",
+        "512GB",
+        "1TB"
+      ],
+      "tags": [
+        "smartphone",
+        "apple",
+        "5g",
+        "iphone"
+      ],
+      "warranty": "1-year manufacturer warranty"
+    },
+    {
+      "availability": "In Stock",
+      "brand": "Samsung",
+      "category": "Electronics",
+      "colors": [
+        "Phantom Black",
+        "Phantom White",
+        "Burgundy"
+      ],
+      "coupon_code": "SAMSUNG10",
+      "delivery_estimate": "2-4 business days",
+      "description": "Samsung's flagship device with 200 MP camera and Snapdragon 8 Gen 2.",
+      "discount_price": 1299.99,
+      "features": [
+        "200 MP camera",
+        "Snapdragon 8 Gen 2",
+        "120Hz Dynamic AMOLED"
+      ],
+      "id": 2,
+      "image": "/static/images/galaxy_s23_ultra.jpg",
+      "name": "Samsung Galaxy S23 Ultra",
+      "num_reviews": 9876,
+      "offer_details": "Buy one, get 10% off on accessories",
+      "price": 1399.99,
+      "rating": 4.7,
+      "seller": {
+        "location": "Seoul, South Korea",
+        "name": "Samsung Official",
+        "rating": 4.8
+      },
+      "shipping": "Free Shipping",
+      "sizes": [
+        "256GB",
+        "512GB",
+        "1TB"
+      ],
+      "tags": [
+        "smartphone",
+        "android",
+        "samsung",
+        "galaxy"
+      ],
+      "warranty": "1-year manufacturer warranty"
+    },
+    {
+      "availability": "In Stock",
+      "brand": "Sony",
+      "category": "Electronics",
+      "colors": [
+        "Black",
+        "Silver"
+      ],
+      "coupon_code": "SONY15",
+      "delivery_estimate": "4-6 business days",
+      "description": "Industry-leading noise-canceling headphones with 30-hour battery life.",
+      "discount_price": 349.99,
+      "features": [
+        "Noise-canceling",
+        "30-hour battery life",
+        "Touch sensor controls"
+      ],
+      "id": 3,
+      "image": "/static/images/sony_wh1000xm5.jpg",
+      "name": "Sony WH-1000XM5 Headphones",
+      "num_reviews": 6534,
+      "offer_details": "15% off on first purchase",
+      "price": 399.99,
+      "rating": 4.9,
+      "seller": {
+        "location": "Tokyo, Japan",
+        "name": "Sony Store",
+        "rating": 4.9
+      },
+      "shipping": "Free Shipping",
+      "sizes": [],
+      "tags": [
+        "headphones",
+        "sony",
+        "noise-canceling",
+        "audio"
+      ],
+      "warranty": "2-year warranty"
+    },
+    {
+      "availability": "In Stock",
+      "brand": "Nike",
+      "category": "Fashion",
+      "colors": [
+        "Black",
+        "White",
+        "Blue"
+      ],
+      "coupon_code": "NIKE20",
+      "delivery_estimate": "3-5 business days",
+      "description": "Comfortable running shoes with Zoom Air cushioning and breathable mesh.",
+      "discount_price": 99.99,
+      "features": [
+        "Zoom Air cushioning",
+        "Breathable mesh",
+        "Durable rubber outsole"
+      ],
+      "id": 4,
+      "image": "/static/images/nike_air_zoom_pegasus.jpg",
+      "name": "Nike Air Zoom Pegasus 39",
+      "num_reviews": 10234,
+      "offer_details": "Buy 1, get 20% off on second pair",
+      "price": 120,
+      "rating": 4.6,
+      "seller": {
+        "location": "Oregon, USA",
+        "name": "Nike Store",
+        "rating": 4.7
+      },
+      "shipping": "Free Shipping",
+      "sizes": [
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "tags": [
+        "shoes",
+        "nike",
+        "running",
+        "sportswear"
+      ],
+      "warranty": "6-month warranty"
+    },
+    {
+      "availability": "In Stock",
+      "brand": "LG",
+      "category": "Electronics",
+      "colors": [
+        "Black"
+      ],
+      "coupon_code": "LG10",
+      "delivery_estimate": "5-7 business days",
+      "description": "55-inch OLED display with 4K resolution, AI Picture Pro, and webOS.",
+      "discount_price": 1599.99,
+      "features": [
+        "4K OLED display",
+        "AI Picture Pro",
+        "webOS smart TV"
+      ],
+      "id": 5,
+      "image": "/static/images/lg_oled_55inch.jpg",
+      "name": "LG 55-Inch OLED 4K TV",
+      "num_reviews": 4312,
+      "offer_details": "10% off on your next purchase of accessories",
+      "price": 1799.99,
+      "rating": 4.8,
+      "seller": {
+        "location": "Seoul, South Korea",
+        "name": "LG Official",
+        "rating": 4.9
+      },
+      "shipping": "Free Shipping",
+      "sizes": [],
+      "tags": [
+        "tv",
+        "lg",
+        "oled",
+        "4k",
+        "electronics"
+      ],
+      "warranty": "2-year warranty"
+    },
+    {
+      "availability": "In Stock",
+      "brand": "Adidas",
+      "category": "Fashion",
+      "colors": [
+        "Black",
+        "White",
+        "Red"
+      ],
+      "coupon_code": "ADIDAS15",
+      "delivery_estimate": "3-5 business days",
+      "description": "Running shoes with responsive cushioning and energy return technology.",
+      "discount_price": 149.99,
+      "features": [
+        "Boost cushioning",
+        "Primeknit upper",
+        "Rubber outsole"
+      ],
+      "id": 6,
+      "image": "/static/images/adidas_ultraboost_22.jpg",
+      "name": "Adidas UltraBoost 22 Running Shoes",
+      "num_reviews": 6543,
+      "offer_details": "15% off when you buy 2 pairs",
+      "price": 180,
+      "rating": 4.7,
+      "seller": {
+        "location": "Herzogenaurach, Germany",
+        "name": "Adidas Official",
+        "rating": 4.8
+      },
+      "shipping": "Free Shipping",
+      "sizes": [
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "tags": [
+        "shoes",
+        "adidas",
+        "running",
+        "sportswear"
+      ],
+      "warranty": "1-year warranty"
+    },
+    {
+      "availability": "In Stock",
+      "brand": "Canon",
+      "category": "Electronics",
+      "colors": [
+        "Black"
+      ],
+      "coupon_code": "CANON5",
+      "delivery_estimate": "4-6 business days",
+      "description": "A powerful DSLR camera with 32.5 MP resolution and 4K video recording.",
+      "discount_price": 1099.99,
+      "features": [
+        "32.5 MP",
+        "4K video",
+        "45-point autofocus"
+      ],
+      "id": 7,
+      "image": "/static/images/canon_eos_90d.jpg",
+      "name": "Canon EOS 90D DSLR Camera",
+      "num_reviews": 2450,
+      "offer_details": "5% off on first purchase",
+      "price": 1199.99,
+      "rating": 4.7,
+      "seller": {
+        "location": "Tokyo, Japan",
+        "name": "Canon Official",
+        "rating": 4.8
+      },
+      "shipping": "Free Shipping",
+      "sizes": [],
+      "tags": [
+        "camera",
+        "canon",
+        "dslr",
+        "photography"
+      ],
+      "warranty": "1-year manufacturer warranty"
+    },
+    {
+      "availability": "In Stock",
+      "brand": "HarperCollins",
+      "category": "Books",
+      "colors": [],
+      "coupon_code": "BOOKS50",
+      "delivery_estimate": "3-5 business days",
+      "description": "A philosophical novel about following your dreams.",
+      "discount_price": 7.99,
+      "features": [
+        "Best-seller",
+        "Inspirational"
+      ],
+      "id": 8,
+      "image": "/static/images/the_alchemist.jpg",
+      "name": "The Alchemist by Paulo Coelho",
+      "num_reviews": 15620,
+      "offer_details": "Buy 1, get 2nd at 50% off",
+      "price": 9.99,
+      "rating": 4.9,
+      "seller": {
+        "location": "New York, USA",
+        "name": "HarperCollins",
+        "rating": 4.9
+      },
+      "shipping": "Free Shipping",
+      "sizes": [],
+      "tags": [
+        "book",
+        "fiction",
+        "philosophy",
+        "paulo coelho"
+      ],
+      "warranty": "No warranty"
+    },
+    {
+      "availability": "In Stock",
+      "brand": "Fitbit",
+      "category": "Fitness",
+      "colors": [
+        "Black",
+        "Plum",
+        "Lunar White"
+      ],
+      "coupon_code": "FITBIT10",
+      "delivery_estimate": "3-5 business days",
+      "description": "Advanced fitness tracker with GPS, heart rate monitor, and sleep tracking.",
+      "discount_price": 129.99,
+      "features": [
+        "Built-in GPS",
+        "Heart rate monitoring",
+        "Sleep tracking"
+      ],
+      "id": 9,
+      "image": "/static/images/fitbit_charge_5.jpg",
+      "name": "Fitbit Charge 5 Fitness Tracker",
+      "num_reviews": 3230,
+      "offer_details": "10% off on your first purchase",
+      "price": 149.99,
+      "rating": 4.6,
+      "seller": {
+        "location": "San Francisco, USA",
+        "name": "Fitbit Official",
+        "rating": 4.8
+      },
+      "shipping": "Free Shipping",
+      "sizes": [],
+      "tags": [
+        "fitness",
+        "tracker",
+        "fitbit",
+        "health"
+      ],
+      "warranty": "1-year warranty"
+    },
+    {
+      "availability": "In Stock",
+      "brand": "LG",
+      "category": "Electronics",
+      "colors": [
+        "Black"
+      ],
+      "coupon_code": "LGMONITOR15",
+      "delivery_estimate": "5-7 business days",
+      "description": "Full HD 1080p IPS display with ultra-thin bezels and adjustable stand.",
+      "discount_price": 199.99,
+      "features": [
+        "Full HD",
+        "IPS panel",
+        "Ultra-thin bezels"
+      ],
+      "id": 10,
+      "image": "/static/images/lg_32inch_monitor.jpg",
+      "name": "LG 32-Inch 1080p Monitor",
+      "num_reviews": 4123,
+      "offer_details": "15% off when you buy 2 monitors",
+      "price": 249.99,
+      "rating": 4.7,
+      "seller": {
+        "location": "Seoul, South Korea",
+        "name": "LG Official",
+        "rating": 4.8
+      },
+      "shipping": "Free Shipping",
+      "sizes": [],
+      "tags": [
+        "monitor",
+        "lg",
+        "electronics",
+        "display"
+      ],
+      "warranty": "1-year warranty"
+    }
+  ]
+}
